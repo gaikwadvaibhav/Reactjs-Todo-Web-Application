@@ -5,6 +5,9 @@ This is simple TODO List reactjs application.We can create Todo List using react
 Below you will find some information on how to perform common tasks.<br>
  
 ## Available Scripts
+Install Dependancy: 
+
+### `npm install`
 
 In the project directory, you can run:
 
