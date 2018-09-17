@@ -1,0 +1,8 @@
+btn-success {
+    outline: none;
+}
+
+btn-success:focus {
+    outline: none;
+    box-shadow: none;
+}
