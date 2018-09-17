@@ -1,3 +1,13 @@
 .li-list{
     width: max-content;
+
+}
+.pl-3{
+    cursor: pointer;
+}
+
+.pl-3 b {
+    border-radius: 50px;
+    background-color: grey;
+    width: 50%;
 }

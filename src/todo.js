@@ -13,7 +13,7 @@ class TodoApp extends Component {
         return (
             <div className='row jumbotron'>
                     
-                    <div className="col-md-12"> <h3>TODO</h3> </div>
+                    <div className="col-md-12"> <h3>TODO LIST</h3> </div>
                  <div className="col-md-4">
 
                     <form onSubmit={this.handleSubmit}>
